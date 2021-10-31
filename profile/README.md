@@ -1,2 +1,6 @@
-Welcome! This organization is for users of the advanced topics forum on scratch. <br>
-[Our Website](https://scratch-advancedtopics.github.io)
+<img src="logo.svg" width="150px" align="right" />
+
+# Scratch ATs
+Welcome to our GitHub organisation! We are frequent members of the ATs.
+
+[Our site](https://scratch-advancedtopics.github.io)
